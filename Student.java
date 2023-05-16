@@ -1,6 +1,5 @@
 public class Student {
-
-    public void showInfo() {
-        // .....
-    }
+    
+    String code;
+    String name;
 }
