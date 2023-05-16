@@ -3,7 +3,7 @@ public class Student {
     String code;
     String name;
 
-    public void showInfo2() {
+    public void showInfo() {
       //....
     }
 }
